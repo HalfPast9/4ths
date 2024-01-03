@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" modified="2024-01-02T18:19:18.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7h0AtMKnrl3sU_0Wy3FM" version="22.1.16" type="device">
+  <diagram name="Page-1" id="DdP7j1N7ITuLK1L2dnxr">
+    <mxGraphModel dx="550" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YC-9gDWAKspDO5AQxh_9-1" value="columns A-D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YC-9gDWAKspDO5AQxh_9-2" value="MIF (A-D)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YC-9gDWAKspDO5AQxh_9-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YC-9gDWAKspDO5AQxh_9-2" target="YC-9gDWAKspDO5AQxh_9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="370" as="sourcePoint" />
+            <mxPoint x="200" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="350" />
+              <mxPoint x="140" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YC-9gDWAKspDO5AQxh_9-4" value="Outreach Survey&lt;br&gt;(S)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YC-9gDWAKspDO5AQxh_9-5" value="E" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YC-9gDWAKspDO5AQxh_9-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YC-9gDWAKspDO5AQxh_9-4" target="YC-9gDWAKspDO5AQxh_9-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="360" as="sourcePoint" />
+            <mxPoint x="360" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YC-9gDWAKspDO5AQxh_9-7" value="whats column f?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YC-9gDWAKspDO5AQxh_9-8" value="G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YC-9gDWAKspDO5AQxh_9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YC-9gDWAKspDO5AQxh_9-9" target="YC-9gDWAKspDO5AQxh_9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YC-9gDWAKspDO5AQxh_9-9" value="if new adress" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YC-9gDWAKspDO5AQxh_9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YC-9gDWAKspDO5AQxh_9-11" target="YC-9gDWAKspDO5AQxh_9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YC-9gDWAKspDO5AQxh_9-11" value="Outreach Survey&amp;nbsp;&lt;br&gt;(S)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
